@@ -11,4 +11,4 @@
 [立即試玩](https://rogeraabbccdd.github.io/AsiaGodTone-Hotpot-Game/)
 <br>
 <br>
-## [語法網站](https://www.w3schools.com/)
+## 筆記三欠的語法網站 [語法網站](https://www.w3schools.com/)
