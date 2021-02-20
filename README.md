@@ -4,5 +4,6 @@
 
 如果你被釣，恭喜你獲得了玩網路上大佬所製作的遊戲<br>
 ![THE 釣](preview.jpg "火鍋")  
-[統神端火鍋](https://github.com/rogeraabbccdd/AsiaGodTone-Hotpot-Game.git)
-點上面這個
+[原作者的超猛Github](https://github.com/rogeraabbccdd/AsiaGodTone-Hotpot-Game.git)
+<br>
+[立即試玩](https://rogeraabbccdd.github.io/AsiaGodTone-Hotpot-Game/)
