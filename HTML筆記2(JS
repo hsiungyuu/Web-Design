@@ -1,0 +1,48 @@
+# Web-Design
+
+<html>
+	<head>
+		<title>21125熊育慶</title>
+	</head>
+	<body>
+		<center>
+		<font size="7">JavaScript(簡稱JS)</font>
+		<br>
+		如同CSS使用方法
+		<br>
+		需在< head >裡加上< script >
+		<br>
+		在<font size="5">JS</font>裡可以做到相當多事情
+		<br>
+		這些事都必須透過<font size="5"><b>function</b></font>來建立功能，類似C語言中的自訂函式。
+		<br>
+		<b>function name(){</b><br>
+		<font size="5">JavaScript 提供三個方法 alert(), confirm(), prompt()</font> 
+		<br>
+		讓你可以使用瀏覽器內建的對話視窗。
+		<br>
+		<br>
+		因此我們可以使用下列這三種用法<br>
+		 <font size="5">name=prompt(“”);變數 alert(“name+”);警告視窗if(confirm(“”))else判斷</font>
+		<br><br>
+		<font size="5">var</font> 宣告變數 類似C語言中的int||double
+		<br>變數的第一個字母必須為英文字母、底線 _ 或是錢字號 $
+		<br>第一個字母之後為英文字母、底線 _ 或是錢字號 $、數字
+		有區分大小寫
+		<br>所有無透過 var 宣告的變數都會自動變成全域變數
+		<br><br>
+		<font size="5">document.getElementById(“n1”).value;</font>
+		<br>		
+		<font size="5">document.getElementById(“n2”).value;</font>
+		<br>上面就是如何取得元件的值<br><br>
+		<font size="5">parseInt(“n1”);</font>("分析"函數，會在給與字串作為參數時返回數值。)<br>
+		this 自己 
+		<br>this並不是指他處於哪一個 function 或 Scope。
+		<br>
+		this 是在 function 呼叫時才會產生，並且是由哪裡（誰）呼叫而決定this 是表示什麼。
+		<br>
+		<b>}</b>
+		</center>	
+		
+	</body>
+</html>
