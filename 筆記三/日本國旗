@@ -1,0 +1,27 @@
+<html>
+
+	<head>
+		<title>maiiyahi maiiyaho maiiyaha</title>
+		<style>	
+		#d1{
+			width:400px;
+			height:200px;
+			background-color:white;
+			position:relative;
+		}
+		#d2{
+			border-radius:100px;
+			width:100px;
+			height:100px;
+			background-color:red;
+			position:absolute;
+			top:50px;
+			left:150px;
+		}
+		</style>
+	</head>
+	<body style="background-color:black;">
+		<div id="d1"><center><div id="d2"></center></div></div>
+		
+	</body>
+</html>
