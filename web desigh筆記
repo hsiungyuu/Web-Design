@@ -1,7 +1,7 @@
 # Web-Design
 
 <html>
-	<head><!-- 網頁設置 -->
+	 <head><!-- 網頁設置 -->
 		<title>21125熊育慶</title> <!-- 網頁標題 -->
 		<style><!-- week3 CSS函式及使用 --><!-- week5 利用CSS來製作漸層與動畫 
 					linear-gradient 直線性漸層
